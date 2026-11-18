@@ -1,5 +1,6 @@
 ## It is a simple regression analysis of the stock of Unilever.
-To breifly say, I use the log regression line to fit the rising trend of the stock of Unilever.
+
+In short, I use the log regression line to fit the rising trend of the stock of Unilever.
 
 And then, for some specific risk event windows, I use the t-test to explore whether the stock deviated from the normal value.
 
